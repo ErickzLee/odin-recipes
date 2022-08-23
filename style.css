@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+h1 {
+    background-color: bisque;
+    font-size: 70px;
+}
+h2 {
+    font-size: 30px;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+.list {
+    text-align: left;
+    display: inline-block;
+}
